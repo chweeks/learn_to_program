@@ -12,7 +12,7 @@ class Dragon
 			case choice
 				when choice = 'feed'; self.feed
 				when choice = 'walk'; self.walk
-			    when choice = 'put to bed'; self.put_to_bed
+			        when choice = 'put to bed'; self.put_to_bed
 			  	when choice = 'rock'; self.rock
 			  	when choice = 'feed'; self.feed
 			  	when choice = 'feed'; self.feed
